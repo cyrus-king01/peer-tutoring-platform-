@@ -57,3 +57,5 @@ and persistence will be added in later iterations.
 - Name — role
 - Oguntona Samuel (Version control engginer)
 
+- Name - role
+- Akinrimisi Boluwatife - Assist deployment documentation (Backend)
